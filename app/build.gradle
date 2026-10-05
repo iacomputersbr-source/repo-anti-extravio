@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace 'com.antiextravio.fix'
+    namespace 'com.example.antiextravio'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.antiextravio.fix"
+        applicationId "com.example.antiextravio"
         minSdk 24
         targetSdk 34
-        versionCode 2
-        versionName "1.1-fix"
+        versionCode 3
+        versionName "1.2-fix-robot"
     }
 
     buildTypes {
