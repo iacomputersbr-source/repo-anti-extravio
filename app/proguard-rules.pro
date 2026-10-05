@@ -1,3 +1,0 @@
--keep class com.antiv.pro.** { *; }
--dontwarn androidx.security.**
--keepattributes *Annotation*
