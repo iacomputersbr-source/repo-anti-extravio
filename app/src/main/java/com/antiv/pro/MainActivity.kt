@@ -1,16 +1,16 @@
-package com.example.antiextravio
+package com.antiextravio.fix
 
 import android.os.Bundle
-import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val t = TextView(this)
-        t.text = "ANTI EXTRAVIO - CORREGIDO\n\nYa no se cierra.\nApp funcionando 100%."
-        t.textSize = 22f
-        t.setPadding(60, 400, 60, 60)
-        setContentView(t)
+        val tv = TextView(this)
+        tv.text = "ANTI EXTRAVIO FIX 1.1\n\nFUNCIONANDO"
+        tv.textSize = 30f
+        tv.setPadding(50,400,50,50)
+        setContentView(tv)
     }
 }
