@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anti Extravio PRO</string>
+    <string name="hint_emergencia">Numero de emergencia</string>
+    <string name="hint_palabra">Palabra clave SMS</string>
+    <string name="hint_licencia">Codigo licencia</string>
+    <string name="activar">Activar PRO</string>
+</resources>
