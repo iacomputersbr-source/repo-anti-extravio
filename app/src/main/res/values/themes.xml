@@ -1,5 +1,3 @@
 <resources>
-    <style name="Theme.App" parent="Theme.Material3.DayNight">
-        <item name="colorPrimary">#22C55E</item>
-    </style>
+    <style name="Theme.AntiExtravio" parent="android:style/Theme.Light.NoTitleBar" />
 </resources>
