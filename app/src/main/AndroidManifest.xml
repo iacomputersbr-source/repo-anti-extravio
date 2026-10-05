@@ -4,7 +4,7 @@
     <application
         android:icon="@android:mipmap/sym_def_app_icon"
         android:label="Anti Extravio"
-        android:theme="@android:style/Theme.Light.NoTitleBar">
+        android:theme="@style/Theme.AntiExtravio">
 
         <activity
             android:name=".MainActivity"
